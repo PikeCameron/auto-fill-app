@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+}
+
+.containerStyle {
+  text-align: center;
+  margin: 20px;
+}
+
+.sectionStyle {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.labelStyle {
+  display: block;
+  margin-bottom: 1px;
+  margin-top: 0px;
+  font-weight: bold;
+}
+
+.inputStyle {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 1px;
+  box-sizing: border-box;
+}
+
+.flexContainer {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.flexItem {
+  flex: 1;
+  margin-right: 10px;
+}
+
+.buttonStyle {
+  padding: 8px 15px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
